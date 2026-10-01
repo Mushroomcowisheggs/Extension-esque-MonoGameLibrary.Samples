@@ -1,0 +1,76 @@
+Log started at 2026-09-07 22:32:56 
+[Info] 22:32:56.865 ModuleLoader: Scanning directory 'E:\Users\MECHREV\Documents\GamesProjects\XNAProjects\Temp_Migration8\DungeonSlime-WithGameModes-Expanded\DungeonSlime\bin\Debug\net8.0\' for modules...
+[Debug] 22:32:56.924 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.Gum.GumModule'.
+[Debug] 22:32:56.926 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.MonoGame.Input.InputModule'.
+[Debug] 22:32:56.927 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.MonoGame.Gum.MonoGameGumBridgeModule'.
+[Debug] 22:32:56.928 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.MonoGame.Graphics.GraphicsModule'.
+[Debug] 22:32:56.928 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.MonoGame.Content.ContentModule'.
+[Debug] 22:32:56.929 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.MonoGame.Audio.AudioModule'.
+[Debug] 22:32:56.931 ModuleLoader: Discovered module 'MonoGameLibrary.Extensions.Screens.ScreenModule'.
+[Debug] 22:32:56.932 ModuleLoader: Discovered module 'MonoGameLibrary.Extensions.Scenes.SceneModule'.
+[Info] 22:32:56.944 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.MonoGame.Content.ContentModule'.
+[Info] 22:32:56.967 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.MonoGame.Graphics.GraphicsModule'.
+[Info] 22:32:56.969 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.MonoGame.Gum.MonoGameGumBridgeModule'.
+[Info] 22:32:56.971 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.Gum.GumModule'.
+[Info] 22:32:56.973 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.MonoGame.Audio.AudioModule'.
+[Info] 22:32:56.982 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.MonoGame.Input.InputModule'.
+[Info] 22:32:56.983 ModuleLoader: Successfully registered module 'MonoGameLibrary.Extensions.Scenes.SceneModule'.
+[Info] 22:32:56.985 ModuleLoader: Successfully registered module 'MonoGameLibrary.Extensions.Screens.ScreenModule'.
+[Info] 22:32:56.986 ModuleLoader: Scan completed; registered 8 module(s).
+Log started at 2026-09-07 22:59:56 
+[Info] 22:59:56.885 ModuleLoader: Scanning directory 'E:\Users\MECHREV\Documents\GamesProjects\XNAProjects\Temp_Migration8\DungeonSlime-WithGameModes-Expanded\DungeonSlime\bin\Debug\net8.0\' for modules...
+[Debug] 22:59:56.915 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.Gum.GumModule'.
+[Debug] 22:59:56.917 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.MonoGame.Input.InputModule'.
+[Debug] 22:59:56.917 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.MonoGame.Gum.MonoGameGumBridgeModule'.
+[Debug] 22:59:56.918 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.MonoGame.Graphics.GraphicsModule'.
+[Debug] 22:59:56.918 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.MonoGame.Content.ContentModule'.
+[Debug] 22:59:56.919 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.MonoGame.Audio.AudioModule'.
+[Debug] 22:59:56.920 ModuleLoader: Discovered module 'MonoGameLibrary.Extensions.Screens.ScreenModule'.
+[Debug] 22:59:56.920 ModuleLoader: Discovered module 'MonoGameLibrary.Extensions.Scenes.SceneModule'.
+[Info] 22:59:56.927 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.MonoGame.Content.ContentModule'.
+[Info] 22:59:56.940 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.MonoGame.Graphics.GraphicsModule'.
+[Info] 22:59:56.941 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.MonoGame.Gum.MonoGameGumBridgeModule'.
+[Info] 22:59:56.942 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.Gum.GumModule'.
+[Info] 22:59:56.943 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.MonoGame.Audio.AudioModule'.
+[Info] 22:59:56.948 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.MonoGame.Input.InputModule'.
+[Info] 22:59:56.949 ModuleLoader: Successfully registered module 'MonoGameLibrary.Extensions.Scenes.SceneModule'.
+[Info] 22:59:56.950 ModuleLoader: Successfully registered module 'MonoGameLibrary.Extensions.Screens.ScreenModule'.
+[Info] 22:59:56.950 ModuleLoader: Scan completed; registered 8 module(s).
+Log started at 2026-09-07 23:01:46 
+[Info] 23:01:46.733 ModuleLoader: Scanning directory 'E:\Users\MECHREV\Documents\GamesProjects\XNAProjects\Temp_Migration8\DungeonSlime-WithGameModes-Expanded\DungeonSlime\bin\Debug\net8.0\' for modules...
+[Debug] 23:01:46.761 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.Gum.GumModule'.
+[Debug] 23:01:46.762 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.MonoGame.Input.InputModule'.
+[Debug] 23:01:46.763 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.MonoGame.Gum.MonoGameGumBridgeModule'.
+[Debug] 23:01:46.763 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.MonoGame.Graphics.GraphicsModule'.
+[Debug] 23:01:46.764 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.MonoGame.Content.ContentModule'.
+[Debug] 23:01:46.764 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.MonoGame.Audio.AudioModule'.
+[Debug] 23:01:46.765 ModuleLoader: Discovered module 'MonoGameLibrary.Extensions.Screens.ScreenModule'.
+[Debug] 23:01:46.766 ModuleLoader: Discovered module 'MonoGameLibrary.Extensions.Scenes.SceneModule'.
+[Info] 23:01:46.770 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.MonoGame.Content.ContentModule'.
+[Info] 23:01:46.783 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.MonoGame.Graphics.GraphicsModule'.
+[Info] 23:01:46.784 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.MonoGame.Gum.MonoGameGumBridgeModule'.
+[Info] 23:01:46.785 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.Gum.GumModule'.
+[Info] 23:01:46.786 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.MonoGame.Audio.AudioModule'.
+[Info] 23:01:46.790 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.MonoGame.Input.InputModule'.
+[Info] 23:01:46.792 ModuleLoader: Successfully registered module 'MonoGameLibrary.Extensions.Scenes.SceneModule'.
+[Info] 23:01:46.792 ModuleLoader: Successfully registered module 'MonoGameLibrary.Extensions.Screens.ScreenModule'.
+[Info] 23:01:46.793 ModuleLoader: Scan completed; registered 8 module(s).
+Log started at 2026-09-08 12:50:10 
+[Info] 12:50:10.798 ModuleLoader: Scanning directory 'E:\Users\MECHREV\Documents\GamesProjects\XNAProjects\Temp_Migration7\v2\DungeonSlime-WithGameModes-Expanded\DungeonSlime\bin\Debug\net8.0\' for modules...
+[Debug] 12:50:10.823 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.Gum.GumModule'.
+[Debug] 12:50:10.824 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.MonoGame.Input.InputModule'.
+[Debug] 12:50:10.825 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.MonoGame.Gum.MonoGameGumBridgeModule'.
+[Debug] 12:50:10.825 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.MonoGame.Graphics.GraphicsModule'.
+[Debug] 12:50:10.826 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.MonoGame.Content.ContentModule'.
+[Debug] 12:50:10.826 ModuleLoader: Discovered module 'MonoGameLibrary.Adapters.MonoGame.Audio.AudioModule'.
+[Debug] 12:50:10.827 ModuleLoader: Discovered module 'MonoGameLibrary.Extensions.Screens.ScreenModule'.
+[Debug] 12:50:10.827 ModuleLoader: Discovered module 'MonoGameLibrary.Extensions.Scenes.SceneModule'.
+[Info] 12:50:10.831 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.MonoGame.Content.ContentModule'.
+[Info] 12:50:10.844 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.MonoGame.Graphics.GraphicsModule'.
+[Info] 12:50:10.845 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.MonoGame.Gum.MonoGameGumBridgeModule'.
+[Info] 12:50:10.846 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.Gum.GumModule'.
+[Info] 12:50:10.847 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.MonoGame.Audio.AudioModule'.
+[Info] 12:50:10.851 ModuleLoader: Successfully registered module 'MonoGameLibrary.Adapters.MonoGame.Input.InputModule'.
+[Info] 12:50:10.852 ModuleLoader: Successfully registered module 'MonoGameLibrary.Extensions.Scenes.SceneModule'.
+[Info] 12:50:10.853 ModuleLoader: Successfully registered module 'MonoGameLibrary.Extensions.Screens.ScreenModule'.
+[Info] 12:50:10.853 ModuleLoader: Scan completed; registered 8 module(s).
